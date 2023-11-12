@@ -1,4 +1,4 @@
-const validationInput = document.getElementById("validation-input");
+const validationInput = document.getElementById("#validation-input");
 
 validationInput.addEventListener("blur", () => {
   const inputValue = validationInput.value.trim();
